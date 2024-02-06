@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea890cd0-265d-4f88-a778-79ced14fbf60" name="Changes" comment="Gradle change">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea890cd0-265d-4f88-a778-79ced14fbf60" name="Changes" comment="Project is an upgraded version of basic library. Renamed tests and some variables, added couple of functions, new variables and classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="LibraryMaster" />
+        <entry key="$PROJECT_DIR$" value="LibraryMasterUpgraded" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,7 +83,7 @@
     "Gradle.library [:Main.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LibraryMasterUpgraded",
+    "git-widget-placeholder": "LibraryUpgradedBranch",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ilyac/IdeaProjects/library/src/Main.java",
     "settings.editor.selected.configurable": "project.kotlinCompiler"
@@ -253,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707174767839</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Project is an upgraded version of basic library. Renamed tests and some variables, added couple of functions, new variables and classes">
+      <option name="closed" value="true" />
+      <created>1707175440149</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707175440149</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +294,7 @@
     <MESSAGE value="Improved functionality according to task requirements" />
     <MESSAGE value="Upgraded library from previous projet according to project demands" />
     <MESSAGE value="Gradle change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gradle change" />
+    <MESSAGE value="Project is an upgraded version of basic library. Renamed tests and some variables, added couple of functions, new variables and classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project is an upgraded version of basic library. Renamed tests and some variables, added couple of functions, new variables and classes" />
   </component>
 </project>
